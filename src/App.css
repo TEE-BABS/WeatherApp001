@@ -7,3 +7,8 @@
    flex-wrap: wrap;
    justify-content: space-evenly;
 }
+
+.switch-container{
+  display: flex;
+  justify-content: space-between;
+}
